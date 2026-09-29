@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/src/RingAllreduce3.cpp
+mpi.h
+-
+cuda_runtime.h
+-
+iostream
+-
+vector
+-
+algorithm
+-
+cstdlib
+-
+

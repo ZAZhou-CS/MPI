@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-rpath -Wl,/usr/local/lib -Wl,--enable-new-dtags CMakeFiles/send.dir/src/send.cpp.o  -o send  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmpicxx.so /usr/local/lib/libmpi.so 

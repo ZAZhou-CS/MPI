@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wl,-rpath -Wl,/usr/local/lib -Wl,--enable-new-dtags CMakeFiles/RingAllreduce2.dir/src/RingAllreduce2.cpp.o  -o RingAllreduce2  -Wl,-rpath,/usr/local/lib /usr/local/lib/libmpicxx.so /usr/local/lib/libmpi.so 

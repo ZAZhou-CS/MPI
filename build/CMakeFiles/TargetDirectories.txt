@@ -1,0 +1,5 @@
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/build/CMakeFiles/RingAllreduce2.dir
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/build/CMakeFiles/RingAllreduce.dir
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/build/CMakeFiles/hello_mpi.dir

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/Research/Gitcodes/StudyCode/MPI/src/RingAllreduce2.cpp
+mpi.h
+-
+iostream
+-
+vector
+-
+algorithm
+-
+
